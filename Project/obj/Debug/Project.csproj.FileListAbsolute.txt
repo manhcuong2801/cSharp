@@ -1,0 +1,33 @@
+C:\Users\meola\Documents\Visual Studio 2015\Projects\PRN292\PRN292\Project\bin\Project.dll.config
+C:\Users\meola\Documents\Visual Studio 2015\Projects\PRN292\PRN292\Project\bin\Project.dll
+C:\Users\meola\Documents\Visual Studio 2015\Projects\PRN292\PRN292\Project\bin\Project.pdb
+C:\Users\meola\Documents\Visual Studio 2015\Projects\PRN292\PRN292\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\meola\Documents\Visual Studio 2015\Projects\PRN292\PRN292\Project\obj\Debug\Project.dll
+C:\Users\meola\Documents\Visual Studio 2015\Projects\PRN292\PRN292\Project\obj\Debug\Project.pdb
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\Project\Project\bin\Project.dll.config
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\Project\Project\bin\Project.dll
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\Project\Project\bin\Project.pdb
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\Project\Project\obj\Debug\Project.dll
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\Project\Project\obj\Debug\Project.pdb
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\Project\Project\bin\ClosedXML.dll
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\Project\Project\bin\DocumentFormat.OpenXml.dll
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\Project\Project\bin\ClosedXML.xml
+E:\PRN292\ProjectNew\Project\Project\bin\Project.dll.config
+E:\PRN292\ProjectNew\Project\Project\bin\Project.dll
+E:\PRN292\ProjectNew\Project\Project\bin\Project.pdb
+E:\PRN292\ProjectNew\Project\Project\bin\ClosedXML.dll
+E:\PRN292\ProjectNew\Project\Project\bin\DocumentFormat.OpenXml.dll
+E:\PRN292\ProjectNew\Project\Project\bin\ClosedXML.xml
+E:\PRN292\ProjectNew\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\PRN292\ProjectNew\Project\Project\obj\Debug\Project.dll
+E:\PRN292\ProjectNew\Project\Project\obj\Debug\Project.pdb
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\ProjectNew\ProjectNew\Project\Project\bin\Project.dll.config
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\ProjectNew\ProjectNew\Project\Project\bin\Project.dll
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\ProjectNew\ProjectNew\Project\Project\bin\Project.pdb
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\ProjectNew\ProjectNew\Project\Project\bin\ClosedXML.dll
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\ProjectNew\ProjectNew\Project\Project\bin\DocumentFormat.OpenXml.dll
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\ProjectNew\ProjectNew\Project\Project\bin\ClosedXML.xml
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\ProjectNew\ProjectNew\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\ProjectNew\ProjectNew\Project\Project\obj\Debug\Project.dll
+E:\FPT COURSES\5-Fall 2019\PRN292\PROJECT\ProjectNew\ProjectNew\Project\Project\obj\Debug\Project.pdb
